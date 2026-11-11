@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11 08:07",
+ "generated": "2026-11-11 10:13",
  "new": [
   {
    "id": "1135",
@@ -30,6 +30,16 @@
    "lp": "한국성장금융",
    "category": "성장",
    "url": "https://m.kgrowth.or.kr/notice_view.asp?page=1&search_colume=&search_text=&idx=1135&str_type=1&tab=1"
+  },
+  {
+   "id": "97862",
+   "source": "행정공제회",
+   "title": "헤지펀드 위탁운용사 선정 공고",
+   "date": "2026-11-11",
+   "deadline": "",
+   "lp": "행정공제회",
+   "category": "기업투자팀",
+   "url": "https://www.poba.or.kr/bbs/selectNttDetail?sechBbsSeq=10&sechBbstSeq=97862"
   }
  ],
  "all": [
@@ -1672,6 +1682,946 @@
    "lp": "한국성장금융",
    "category": "성장",
    "url": "https://m.kgrowth.or.kr/notice_view.asp?page=1&search_colume=&search_text=&idx=1135&str_type=1&tab=1"
+  },
+  {
+   "id": "50137",
+   "source": "KIF(KTOA)",
+   "title": "2026년 KIF투자조합 자펀드 업무집행조합원 선정 결과",
+   "date": "2026-09-01",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50137&q=&f=1"
+  },
+  {
+   "id": "50136",
+   "source": "KIF(KTOA)",
+   "title": "2026년 KIF투자조합 업무집행조합원 1차 심의 결과",
+   "date": "2026-08-11",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50136&q=&f=1"
+  },
+  {
+   "id": "50135",
+   "source": "KIF(KTOA)",
+   "title": "2026년 KIF투자조합 업무집행조합원 선정 제안서 접수결과",
+   "date": "2026-07-21",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50135&q=&f=1"
+  },
+  {
+   "id": "50134",
+   "source": "KIF(KTOA)",
+   "title": "2026년 KIF투자조합 업무집행조합원 선정계획 공고",
+   "date": "2026-06-30",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50134&q=&f=1"
+  },
+  {
+   "id": "50100",
+   "source": "KIF(KTOA)",
+   "title": "2025년 KIF투자조합 자펀드 업무집행조합원 선정결과",
+   "date": "2025-10-02",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50100&q=&f=1"
+  },
+  {
+   "id": "50098",
+   "source": "KIF(KTOA)",
+   "title": "2025년 KIF투자조합 업무집행조합원 1차 심의 결과",
+   "date": "2025-09-16",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50098&q=&f=1"
+  },
+  {
+   "id": "50096",
+   "source": "KIF(KTOA)",
+   "title": "2025년 KIF투자조합 업무집행조합원 선정 제안서 접수결과",
+   "date": "2025-08-29",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50096&q=&f=1"
+  },
+  {
+   "id": "50092",
+   "source": "KIF(KTOA)",
+   "title": "2025년 KIF투자조합 업무집행조합원 선정계획 공고",
+   "date": "2025-08-12",
+   "deadline": "",
+   "lp": "KIF(한국IT펀드)",
+   "category": "",
+   "url": "https://www.ktoa.or.kr/ko/notice/bidding/view?pageIndex=1&pageRowSize=10&listRowSize=10&detailsKey=50092&q=&f=1"
+  },
+  {
+   "id": "164169",
+   "source": "중소기업중앙회",
+   "title": "[평가결과] 중소기업중앙회 위탁운용펀드 일반사무관리회사 선정",
+   "date": "2026-10-21",
+   "deadline": "",
+   "lp": "중소기업중앙회",
+   "category": "",
+   "url": "https://www.kbiz.or.kr/ko/contents/bbs/view.do?seq=164169&topFixYn=N&mnSeq=211"
+  },
+  {
+   "id": "163945",
+   "source": "중소기업중앙회",
+   "title": "[사업공고] 2026년도 중소기업중앙회 해외주식 위탁펀드(글로벌 액티브 재간접) Pool 선정 공고",
+   "date": "2026-09-08",
+   "deadline": "",
+   "lp": "중소기업중앙회",
+   "category": "",
+   "url": "https://www.kbiz.or.kr/ko/contents/bbs/view.do?seq=163945&topFixYn=N&mnSeq=211"
+  },
+  {
+   "id": "163944",
+   "source": "중소기업중앙회",
+   "title": "[사업공고] 2026년도 중소기업중앙회 국내주식 위탁펀드(액티브) Pool 선정 공고",
+   "date": "2026-09-08",
+   "deadline": "",
+   "lp": "중소기업중앙회",
+   "category": "",
+   "url": "https://www.kbiz.or.kr/ko/contents/bbs/view.do?seq=163944&topFixYn=N&mnSeq=211"
+  },
+  {
+   "id": "163777",
+   "source": "중소기업중앙회",
+   "title": "[입찰공고] 중소기업중앙회 위탁운용펀드 일반사무관리회사 선정",
+   "date": "2026-08-18",
+   "deadline": "",
+   "lp": "중소기업중앙회",
+   "category": "",
+   "url": "https://www.kbiz.or.kr/ko/contents/bbs/view.do?seq=163777&topFixYn=N&mnSeq=211"
+  },
+  {
+   "id": "163452",
+   "source": "중소기업중앙회",
+   "title": "[사업공고] 2026년도 중소기업중앙회 국내 블라인드 펀드 선정 공고",
+   "date": "2026-07-10",
+   "deadline": "",
+   "lp": "중소기업중앙회",
+   "category": "",
+   "url": "https://www.kbiz.or.kr/ko/contents/bbs/view.do?seq=163452&topFixYn=N&mnSeq=211"
+  },
+  {
+   "id": "97862",
+   "source": "행정공제회",
+   "title": "헤지펀드 위탁운용사 선정 공고",
+   "date": "2026-11-11",
+   "deadline": "",
+   "lp": "행정공제회",
+   "category": "기업투자팀",
+   "url": "https://www.poba.or.kr/bbs/selectNttDetail?sechBbsSeq=10&sechBbstSeq=97862"
+  },
+  {
+   "id": "96920",
+   "source": "행정공제회",
+   "title": "회원복지재원 위탁운용사 선정 공고",
+   "date": "2026-07-27",
+   "deadline": "",
+   "lp": "행정공제회",
+   "category": "회원전략팀",
+   "url": "https://www.poba.or.kr/bbs/selectNttDetail?sechBbsSeq=10&sechBbstSeq=96920"
+  },
+  {
+   "id": "b38984",
+   "source": "경찰공제회",
+   "title": "[위탁운용사 공고] 경찰공제회 국내 PE·VC 위탁 운용사 선정 공고",
+   "date": "2026-01-12",
+   "deadline": "",
+   "lp": "경찰공제회",
+   "category": "입찰",
+   "url": "https://www.pmaa.or.kr/www/1461128463820/bbs.do?type=view&bbsIdx=38984"
+  },
+  {
+   "id": "732320",
+   "source": "군인공제회",
+   "title": "'26년 군인공제회 해외주식 위탁운용사 선정 공고",
+   "date": "2026-09-21",
+   "deadline": "",
+   "lp": "군인공제회",
+   "category": "",
+   "url": "https://www.mmaa.or.kr/web/contents/notice.do?schM=view&id=732320"
+  },
+  {
+   "id": "731490",
+   "source": "군인공제회",
+   "title": "’26년 군인공제회 국내 PE·VC 블라인드 펀드 선정계획 공고",
+   "date": "2026-07-31",
+   "deadline": "",
+   "lp": "군인공제회",
+   "category": "",
+   "url": "https://www.mmaa.or.kr/web/contents/notice.do?schM=view&id=731490"
+  },
+  {
+   "id": "729122",
+   "source": "군인공제회",
+   "title": "'26년 군인공제회 국내 PE 공동투자 펀드 위탁운용사 선정 공고",
+   "date": "2026-03-20",
+   "deadline": "",
+   "lp": "군인공제회",
+   "category": "",
+   "url": "https://www.mmaa.or.kr/web/contents/notice.do?schM=view&id=729122"
+  },
+  {
+   "id": "724204",
+   "source": "군인공제회",
+   "title": "'25년 군인공제회 국내 PE·VC 블라인드 펀드 선정계획 공고",
+   "date": "2025-08-08",
+   "deadline": "",
+   "lp": "군인공제회",
+   "category": "",
+   "url": "https://www.mmaa.or.kr/web/contents/notice.do?schM=view&id=724204"
+  },
+  {
+   "id": "724170",
+   "source": "군인공제회",
+   "title": "'25년 군인공제회 주식 위탁운용사 선정 공고",
+   "date": "2025-08-06",
+   "deadline": "",
+   "lp": "군인공제회",
+   "category": "",
+   "url": "https://www.mmaa.or.kr/web/contents/notice.do?schM=view&id=724170"
+  },
+  {
+   "id": "722710",
+   "source": "군인공제회",
+   "title": "군인공제회 국내 개발 블라인드 펀드 선정 계획 공고",
+   "date": "2025-05-27",
+   "deadline": "",
+   "lp": "군인공제회",
+   "category": "",
+   "url": "https://www.mmaa.or.kr/web/contents/notice.do?schM=view&id=722710"
+  },
+  {
+   "id": "62102",
+   "source": "교직원공제회",
+   "title": "2026년 한국교직원공제회 국내주식 헤지펀드 위탁운용사 선정 공고",
+   "date": "2026-10-20",
+   "deadline": "",
+   "lp": "한국교직원공제회",
+   "category": "",
+   "url": "https://www.ktcu.or.kr/PPW-CSB-000101/62102"
+  },
+  {
+   "id": "61742",
+   "source": "교직원공제회",
+   "title": "2026년 한국교직원공제회 블라인드 PEF 위탁운용사 선정 공고",
+   "date": "2026-09-04",
+   "deadline": "",
+   "lp": "한국교직원공제회",
+   "category": "",
+   "url": "https://www.ktcu.or.kr/PPW-CSB-000101/61742"
+  },
+  {
+   "id": "61383",
+   "source": "교직원공제회",
+   "title": "2026년 한국교직원공제회 VC 블라인드 펀드 위탁운용사 선정 공고",
+   "date": "2026-07-07",
+   "deadline": "",
+   "lp": "한국교직원공제회",
+   "category": "",
+   "url": "https://www.ktcu.or.kr/PPW-CSB-000101/61383"
+  },
+  {
+   "id": "60822",
+   "source": "교직원공제회",
+   "title": "2026년 한국교직원공제회 해외주식 위탁운용사 선정 공고",
+   "date": "2026-04-13",
+   "deadline": "",
+   "lp": "한국교직원공제회",
+   "category": "",
+   "url": "https://www.ktcu.or.kr/PPW-CSB-000101/60822"
+  },
+  {
+   "id": "58723",
+   "source": "교직원공제회",
+   "title": "2025년 한국교직원공제회 국내주식 위탁운용사 선정 공고",
+   "date": "2025-10-31",
+   "deadline": "",
+   "lp": "한국교직원공제회",
+   "category": "",
+   "url": "https://www.ktcu.or.kr/PPW-CSB-000101/58723"
+  },
+  {
+   "id": "57882",
+   "source": "교직원공제회",
+   "title": "권역별 골프장 투자사업 위탁운용사 선정 공고문",
+   "date": "2025-07-02",
+   "deadline": "",
+   "lp": "한국교직원공제회",
+   "category": "",
+   "url": "https://www.ktcu.or.kr/PPW-CSB-000101/57882"
+  },
+  {
+   "id": "149398",
+   "source": "과학기술인공제회",
+   "title": "2026년도 국내 채권형펀드(매칭형) 위탁운용사 선정 공고",
+   "date": "2026-11-09",
+   "deadline": "",
+   "lp": "과학기술인공제회",
+   "category": "",
+   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=149398&menuNo=200017&optn1=S&pageIndex=1"
+  },
+  {
+   "id": "148626",
+   "source": "과학기술인공제회",
+   "title": "[과학기술인공제회] 국내주식 중소형펀드 위탁운용사 선정 공고",
+   "date": "2026-10-16",
+   "deadline": "",
+   "lp": "과학기술인공제회",
+   "category": "",
+   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=148626&menuNo=200017&optn1=S&pageIndex=1"
+  },
+  {
+   "id": "146525",
+   "source": "과학기술인공제회",
+   "title": "과학기술인공제회 일본주식형펀드 재간접위탁운용사 선정 공고",
+   "date": "2026-08-21",
+   "deadline": "",
+   "lp": "과학기술인공제회",
+   "category": "",
+   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=146525&menuNo=200017&optn1=S&pageIndex=1"
+  },
+  {
+   "id": "146215",
+   "source": "과학기술인공제회",
+   "title": "2026년 국내 PE·VC 블라인드 펀드 선정계획 공고",
+   "date": "2026-08-14",
+   "deadline": "",
+   "lp": "과학기술인공제회",
+   "category": "",
+   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=146215&menuNo=200017&optn1=S&pageIndex=1"
+  },
+  {
+   "id": "143738",
+   "source": "과학기술인공제회",
+   "title": "[과학기술인공제회] 국내 Active주식(일반주식)형 위탁운용사 선정 공고",
+   "date": "2026-06-12",
+   "deadline": "",
+   "lp": "과학기술인공제회",
+   "category": "",
+   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=143738&menuNo=200017&optn1=S&pageIndex=1"
+  },
+  {
+   "id": "139515",
+   "source": "과학기술인공제회",
+   "title": "[공고] 과학기술인공제회 국내 Pre-IPO 위탁운용사 선정 공고",
+   "date": "2026-02-27",
+   "deadline": "",
+   "lp": "과학기술인공제회",
+   "category": "",
+   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=139515&menuNo=200017&optn1=S&pageIndex=1"
+  },
+  {
+   "id": "134873",
+   "source": "과학기술인공제회",
+   "title": "[공고] 과학기술인공제회 해외채권 절대수익형 위탁운용사 선정 공고",
+   "date": "2025-11-26",
+   "deadline": "",
+   "lp": "과학기술인공제회",
+   "category": "",
+   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=134873&menuNo=200017&optn1=S&pageIndex=1"
+  },
+  {
+   "id": "0042-457",
+   "source": "우정사업본부",
+   "title": "우체국보험 해외채권 글로벌크레딧형 예비 운용사 선정 결과 공고합니다.",
+   "date": "2026-11-09",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=457"
+  },
+  {
+   "id": "0041-409",
+   "source": "우정사업본부",
+   "title": "우체국금융 국내 블라인드 PEF 위탁운용사 선정 우선협상대상자 안내",
+   "date": "2026-10-23",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=409"
+  },
+  {
+   "id": "0042-436",
+   "source": "우정사업본부",
+   "title": "해외채권형 펀드(글로벌크레딧형) 정량평가 결과 안내",
+   "date": "2026-10-22",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=436"
+  },
+  {
+   "id": "0041-405",
+   "source": "우정사업본부",
+   "title": "해외인프라 미드캡 위탁운용사 우선협상 대상자 안내",
+   "date": "2026-10-14",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=405"
+  },
+  {
+   "id": "0041-402",
+   "source": "우정사업본부",
+   "title": "2026년도 우체국금융 국내 블라인드 PEF 위탁운용사 선정 1차 정량평가 결과 안내",
+   "date": "2026-10-12",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=402"
+  },
+  {
+   "id": "0042-434",
+   "source": "우정사업본부",
+   "title": "[우정사업본부 공고 제2026-140호] 2026년 우체국보험 국내주식 인덱스형 신규 위탁운용사 선정 공고",
+   "date": "2026-10-12",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=434"
+  },
+  {
+   "id": "0041-401",
+   "source": "우정사업본부",
+   "title": "해외인프라 지분전략 위탁운용사 선정 정량평가 결과 안내",
+   "date": "2026-10-02",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=401"
+  },
+  {
+   "id": "0042-433",
+   "source": "우정사업본부",
+   "title": "[우정사업본부 공고 제2026-132호] 우체국보험 해외채권형 펀드(글로벌크레딧) 운용사 선정 공고",
+   "date": "2026-09-30",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=433"
+  },
+  {
+   "id": "0042-432",
+   "source": "우정사업본부",
+   "title": "2026년 우체국보험 국내VC 위탁운용사 선정 우선협상대상자 안내",
+   "date": "2026-09-22",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=432"
+  },
+  {
+   "id": "0041-400",
+   "source": "우정사업본부",
+   "title": "2026년도 우체국금융 국내 블라인드 PEF 위탁운용사 선정 공고[우정사업본부 공고 제2026-124호]",
+   "date": "2026-09-10",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=400"
+  },
+  {
+   "id": "0041-399",
+   "source": "우정사업본부",
+   "title": "우체국예금 국내부동산 대출전략 펀드 위탁운용사 선정 우선협상대상자 안내",
+   "date": "2026-08-26",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=399"
+  },
+  {
+   "id": "0041-398",
+   "source": "우정사업본부",
+   "title": "(우정사업본부 공고 2026-113호) 2026년도 우체국예금 해외인프라 지분전략 펀드 위탁운용사 선정 공고",
+   "date": "2026-08-24",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=398"
+  },
+  {
+   "id": "0041-397",
+   "source": "우정사업본부",
+   "title": "2026년 우체국예금 국내부동산 대출전략 펀드 위탁운용사 선정 1차 정량평가 결과 안내",
+   "date": "2026-08-18",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=397"
+  },
+  {
+   "id": "0041-393",
+   "source": "우정사업본부",
+   "title": "우체국금융 해외채권 자문운용사 선정 결과 안내",
+   "date": "2026-07-30",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=393"
+  },
+  {
+   "id": "0042-430",
+   "source": "우정사업본부",
+   "title": "(우정사업본부 공고 2026-103호) 2026년 우체국보험 국내VC 위탁운용사 선정 공고",
+   "date": "2026-07-30",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=430"
+  },
+  {
+   "id": "0041-392",
+   "source": "우정사업본부",
+   "title": "[우체국예금 해외주식] 글로벌배당형 및 신흥국형 예비운용사 선정 안내",
+   "date": "2026-07-27",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=392"
+  },
+  {
+   "id": "0042-429",
+   "source": "우정사업본부",
+   "title": "2026년 우체국보험 해외인프라 대출전략 펀드 위탁운용사 우선협상대상자 안내",
+   "date": "2026-07-27",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=429"
+  },
+  {
+   "id": "0041-389",
+   "source": "우정사업본부",
+   "title": "[우정사업본부 공고 제2026-97호] 2026년 우체국예금 국내부동산 대출전략 펀드 위탁운용사 모집공고(목표수익률 추가)",
+   "date": "2026-07-22",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=389"
+  },
+  {
+   "id": "0041-388",
+   "source": "우정사업본부",
+   "title": "우체국금융 해외채권 자문운용사 선정 1차 정량평가 결과 안내",
+   "date": "2026-07-21",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=388"
+  },
+  {
+   "id": "0041-387",
+   "source": "우정사업본부",
+   "title": "[우정사업본부 공고 제2026-97호] 2026년 우체국예금 국내부동산 대출전략 펀드 위탁운용사 모집공고",
+   "date": "2026-07-20",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=387"
+  },
+  {
+   "id": "0040-26307",
+   "source": "우정사업본부",
+   "title": "우체국예금보험 국내주식 신규 운용사(대형주형) 선정 1차 정량평가 결과",
+   "date": "2026-07-20",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "공지",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10509000000&bid=0040&act=view&list_no=26307"
+  },
+  {
+   "id": "0042-427",
+   "source": "우정사업본부",
+   "title": "2026년 우체국보험 해외인프라 대출전략 펀드 위탁운용사 선정 정량평가 결과 안내",
+   "date": "2026-07-16",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=427"
+  },
+  {
+   "id": "0042-426",
+   "source": "우정사업본부",
+   "title": "2026년 우체국보험 국내부동산 멀티전략 펀드 위탁운용사 우선협상대상자 선정 결과 안내",
+   "date": "2026-06-26",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=426"
+  },
+  {
+   "id": "0040-26297",
+   "source": "우정사업본부",
+   "title": "우체국보험 해외주식 신규운용사(글로벌형) 선정 1차 정량평가 결과",
+   "date": "2026-06-25",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "공지",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10509000000&bid=0040&act=view&list_no=26297"
+  },
+  {
+   "id": "0042-407",
+   "source": "우정사업본부",
+   "title": "2026년 우체국보험 국내부동산 멀티전략(상장리츠 및 담보대출) 펀드 위탁운용사 선정 정량평가 결과 안내",
+   "date": "2026-06-24",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=407"
+  },
+  {
+   "id": "0041-377",
+   "source": "우정사업본부",
+   "title": "(우정사업본부 공고 제2026-80호) 우체국금융 해외채권 자문운용사 선정 공고",
+   "date": "2026-06-22",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=377"
+  },
+  {
+   "id": "0041-375",
+   "source": "우정사업본부",
+   "title": "우체국금융 국내부동산 리츠 위탁운용사 선정 우선협상대상자 안내",
+   "date": "2026-06-18",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=375"
+  },
+  {
+   "id": "0042-406",
+   "source": "우정사업본부",
+   "title": "[우정사업본부 공고 제2026-75호] 2026년 우체국예금 보험 국내주식 대형주형 신규 위탁운용사 선정 공고",
+   "date": "2026-06-15",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=406"
+  },
+  {
+   "id": "0041-374",
+   "source": "우정사업본부",
+   "title": "2026년 우체국금융 국내부동산 리츠 위탁운용사 선정 1차 정량평가 결과 안내",
+   "date": "2026-06-08",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=374"
+  },
+  {
+   "id": "0042-405",
+   "source": "우정사업본부",
+   "title": "[우정사업본부 공고 제2026-67호] 2026년 우체국보험 해외주식 글로벌형 신규 위탁운용사 선정 공고",
+   "date": "2026-05-29",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=405"
+  },
+  {
+   "id": "0042-404",
+   "source": "우정사업본부",
+   "title": "(우정사업본부 공고 2026-63호) 2026년도 우체국보험 해외 인프라 대출전략 펀드 위탁운용사 선정 공고",
+   "date": "2026-05-26",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=404"
+  },
+  {
+   "id": "0041-355",
+   "source": "우정사업본부",
+   "title": "(우정사업본부 공고 제2026-62호)2026년 우체국예금 해외주식 신흥국형 신규 운용사 선정 공고",
+   "date": "2026-05-22",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=355"
+  },
+  {
+   "id": "0041-354",
+   "source": "우정사업본부",
+   "title": "(우정사업본부 공고 제2026-61호)2026년 우체국예금 해외주식 글로벌배당형 신규 운용사 선정 공고",
+   "date": "2026-05-22",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "예금",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=354"
+  },
+  {
+   "id": "0042-403",
+   "source": "우정사업본부",
+   "title": "2026년 우체국보험 국내부동산 멀티전략(상장리츠 및 담보대출) 펀드 위탁운용사 선정 공고",
+   "date": "2026-05-12",
+   "deadline": "",
+   "lp": "우정사업본부",
+   "category": "보험",
+   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=403"
+  },
+  {
+   "id": "25",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026_2026년-2차 출자사업 선정 결과",
+   "date": "2026-10-29",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=25"
+  },
+  {
+   "id": "24",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026년-2차 출자사업 관련 추가 안내의 건(LP성장펀드, 일정 등)",
+   "date": "2026-10-01",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=24"
+  },
+  {
+   "id": "23",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026년-2차 출자사업 접수 마감 현황",
+   "date": "2026-09-23",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=23"
+  },
+  {
+   "id": "22",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026년-2차 출자사업 공고",
+   "date": "2026-09-07",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=22"
+  },
+  {
+   "id": "21",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026_2026년-1차 출자사업 선정 결과",
+   "date": "2026-06-26",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=21"
+  },
+  {
+   "id": "20",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026년-1차 출자사업 접수마감 현황",
+   "date": "2026-06-08",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=20"
+  },
+  {
+   "id": "18",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026년 출자사업 종합계획",
+   "date": "2026-05-22",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=18"
+  },
+  {
+   "id": "19",
+   "source": "하나벤처스",
+   "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026년-1차 출자사업 공고",
+   "date": "2026-05-22",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=19"
+  },
+  {
+   "id": "17",
+   "source": "하나벤처스",
+   "title": "하나초격차상생재간접펀드(민간모펀드) 2025년-2차 출자사업 선정 결과",
+   "date": "2025-11-28",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=17"
+  },
+  {
+   "id": "15",
+   "source": "하나벤처스",
+   "title": "하나초격차상생재간접펀드(민간모펀드) 2025년-2차 출자사업 접수마감 현황",
+   "date": "2025-11-04",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=15"
+  },
+  {
+   "id": "14",
+   "source": "하나벤처스",
+   "title": "하나초격차상생재간접펀드(민간모펀드) 2025년-2차 출자사업 공고",
+   "date": "2025-10-20",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=14"
+  },
+  {
+   "id": "13",
+   "source": "하나벤처스",
+   "title": "하나초격차상생재간접펀드(민간모펀드) 2025년-1차 출자사업 선정 결과",
+   "date": "2025-06-05",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=13"
+  },
+  {
+   "id": "12",
+   "source": "하나벤처스",
+   "title": "하나초격차상생재간접펀드(민간모펀드) 2025년-1차 출자사업 접수마감 현황",
+   "date": "2025-05-13",
+   "deadline": "",
+   "lp": "하나벤처스",
+   "category": "출자사업 공고",
+   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=12"
+  },
+  {
+   "id": "44",
+   "source": "신한벤처투자",
+   "title": "신한벤처 넥서스 모펀드 1호 2026년 하반기 출자사업 최종 결과 발표",
+   "date": "2026-09-28",
+   "deadline": "",
+   "lp": "신한벤처투자",
+   "category": "",
+   "url": "https://www.shinhanvc.com/kr/notice/notice/44"
+  },
+  {
+   "id": "43",
+   "source": "신한벤처투자",
+   "title": "신한벤처 넥서스 모펀드 1호 2026년 하반기 출자사업 1차 심사 결과 발표",
+   "date": "2026-09-04",
+   "deadline": "",
+   "lp": "신한벤처투자",
+   "category": "",
+   "url": "https://www.shinhanvc.com/kr/notice/notice/43"
+  },
+  {
+   "id": "42",
+   "source": "신한벤처투자",
+   "title": "신한벤처 넥서스 모펀드 1호 2026년 하반기 출자사업 접수마감 안내",
+   "date": "2026-08-21",
+   "deadline": "",
+   "lp": "신한벤처투자",
+   "category": "",
+   "url": "https://www.shinhanvc.com/kr/notice/notice/42"
+  },
+  {
+   "id": "41",
+   "source": "신한벤처투자",
+   "title": "신한벤처 넥서스 모펀드 1호 2026년 하반기 출자사업 질의응답 게시",
+   "date": "2026-08-18",
+   "deadline": "",
+   "lp": "신한벤처투자",
+   "category": "",
+   "url": "https://www.shinhanvc.com/kr/notice/notice/41"
+  },
+  {
+   "id": "13",
+   "source": "키움인베스트먼트",
+   "title": "키움 벤처히어로 모펀드 출자사업 공고(LP 성장펀드 매칭)",
+   "date": "2026-08-03",
+   "deadline": "",
+   "lp": "키움인베스트먼트",
+   "category": "출자사업 공고",
+   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=13&category=&findType=&findWord=&sort1=&sort2=&page=1"
+  },
+  {
+   "id": "12",
+   "source": "키움인베스트먼트",
+   "title": "키움 벤처히어로 모펀드 2026년 출자사업 선정 결과",
+   "date": "2026-07-30",
+   "deadline": "",
+   "lp": "키움인베스트먼트",
+   "category": "최종 선정 결과",
+   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=12&category=&findType=&findWord=&sort1=&sort2=&page=1"
+  },
+  {
+   "id": "11",
+   "source": "키움인베스트먼트",
+   "title": "키움 벤처히어로 모펀드 2026년 출자사업 1차 평가 결과",
+   "date": "2026-06-30",
+   "deadline": "",
+   "lp": "키움인베스트먼트",
+   "category": "1차 평가 결과",
+   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=11&category=&findType=&findWord=&sort1=&sort2=&page=1"
+  },
+  {
+   "id": "10",
+   "source": "키움인베스트먼트",
+   "title": "키움 벤처히어로 모펀드 2026년 출자사업 공고",
+   "date": "2026-05-27",
+   "deadline": "",
+   "lp": "키움인베스트먼트",
+   "category": "출자사업 공고",
+   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=10&category=&findType=&findWord=&sort1=&sort2=&page=1"
+  },
+  {
+   "id": "5c4ad096-9c85-f111-b404-d4f5ef4a1e33",
+   "source": "서울경제진흥원(SBA)",
+   "title": "2026년 SBA 글로벌 펀드 출자사업 공고",
+   "date": "2026-07-22",
+   "deadline": "2026-08-21",
+   "lp": "서울경제진흥원",
+   "category": "기간 접수",
+   "url": "https://www.sba.seoul.kr/Pages/ContentsMenu/Company_Support_Detail.aspx?RID=5c4ad096-9c85-f111-b404-d4f5ef4a1e33"
+  },
+  {
+   "id": "41b7771c-a74a-f111-b404-d4f5ef4a1e33",
+   "source": "서울경제진흥원(SBA)",
+   "title": "2026 서초AICT 스타트업 2호 펀드 출자사업 공고",
+   "date": "2026-05-11",
+   "deadline": "2026-06-10",
+   "lp": "서울경제진흥원",
+   "category": "기간 접수",
+   "url": "https://www.sba.seoul.kr/Pages/ContentsMenu/Company_Support_Detail.aspx?RID=41b7771c-a74a-f111-b404-d4f5ef4a1e33"
+  },
+  {
+   "id": "9f4ece7f-5f32-f111-b404-d4f5ef4a1e33",
+   "source": "서울경제진흥원(SBA)",
+   "title": "2026년 상반기 서울 Vision 2030 펀드 출자사업 공고",
+   "date": "2026-04-08",
+   "deadline": "2026-05-08",
+   "lp": "서울경제진흥원",
+   "category": "기간 접수",
+   "url": "https://www.sba.seoul.kr/Pages/ContentsMenu/Company_Support_Detail.aspx?RID=9f4ece7f-5f32-f111-b404-d4f5ef4a1e33"
+  },
+  {
+   "id": "f3bc4b73-b59d-f011-b404-d4f5ef4a1e33",
+   "source": "서울경제진흥원(SBA)",
+   "title": "2025년 서초AI스타트업 펀드 출자사업 공고",
+   "date": "2025-10-01",
+   "deadline": "2025-10-17",
+   "lp": "서울경제진흥원",
+   "category": "기간 접수",
+   "url": "https://www.sba.seoul.kr/Pages/ContentsMenu/Company_Support_Detail.aspx?RID=f3bc4b73-b59d-f011-b404-d4f5ef4a1e33"
   }
  ],
  "counts": {
@@ -1681,6 +2631,18 @@
   "VC협회(종합)": 20,
   "벤처투자종합포털(종합)": 50,
   "산업은행": 2,
-  "출자사업알리미(TG)": 20
+  "출자사업알리미(TG)": 20,
+  "KIF(KTOA)": 8,
+  "중소기업중앙회": 5,
+  "행정공제회": 2,
+  "경찰공제회": 1,
+  "군인공제회": 6,
+  "교직원공제회": 6,
+  "과학기술인공제회": 7,
+  "우정사업본부": 34,
+  "하나벤처스": 13,
+  "신한벤처투자": 4,
+  "키움인베스트먼트": 4,
+  "서울경제진흥원(SBA)": 4
  }
 }
