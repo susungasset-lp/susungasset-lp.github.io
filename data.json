@@ -1,58 +1,38 @@
 {
- "generated": "2026-11-12 08:07",
+ "generated": "2026-11-13 08:07",
  "new": [
   {
-   "id": "5235",
+   "id": "5238",
    "source": "모태펀드(KVIC)",
-   "title": "모태펀드(특허계정) 2026년 11월 수시 출자사업 계획 공고",
-   "date": "2026-11-11",
+   "title": "2026년  LP 성장펀드(Track 2) 2차  출자사업  서류심사  결과",
+   "date": "2026-11-12",
    "deadline": "",
    "lp": "한국벤처투자",
-   "category": "출자계획",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5235"
+   "category": "서류결과",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5238"
   },
   {
-   "id": "1136",
-   "source": "한국성장금융",
-   "title": "【선정공고】「연기금투자풀 펀드」 상장기업 혁신성장펀드 위탁운용사 선정계획 공고",
-   "date": "2026-11-11",
-   "deadline": "",
-   "lp": "한국성장금융",
-   "category": "선정공고",
-   "url": "https://m.kgrowth.or.kr/notice_view.asp?page=1&search_colume=&search_text=&idx=1136&str_type=1&tab=1"
-  },
-  {
-   "id": "556",
+   "id": "558",
    "source": "출자사업알리미(TG)",
-   "title": "모태펀드(특허계정) 2026년 11월 수시 출자사업 계획 공고",
-   "date": "2026-11-11",
+   "title": "2026년  LP 성장펀드(Track 2) 2차  출자사업  서류심사  결과",
+   "date": "2026-11-12",
    "deadline": "",
    "lp": "한국벤처투자(모태펀드)",
    "category": "모태",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5235"
-  },
-  {
-   "id": "557",
-   "source": "출자사업알리미(TG)",
-   "title": "【선정공고】「연기금투자풀 펀드」 상장기업 혁신성장펀드 위탁운용사 선정계획 공고",
-   "date": "2026-11-11",
-   "deadline": "",
-   "lp": "한국성장금융",
-   "category": "성장",
-   "url": "https://m.kgrowth.or.kr/notice_view.asp?page=1&search_colume=&search_text=&idx=1136&str_type=1&tab=1"
-  },
-  {
-   "id": "97862",
-   "source": "행정공제회",
-   "title": "헤지펀드 위탁운용사 선정 공고",
-   "date": "2026-11-11",
-   "deadline": "",
-   "lp": "행정공제회",
-   "category": "기업투자팀",
-   "url": "https://www.poba.or.kr/bbs/selectNttDetail?sechBbsSeq=10&sechBbstSeq=97862"
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5238"
   }
  ],
  "all": [
+  {
+   "id": "5238",
+   "source": "모태펀드(KVIC)",
+   "title": "2026년  LP 성장펀드(Track 2) 2차  출자사업  서류심사  결과",
+   "date": "2026-11-12",
+   "deadline": "",
+   "lp": "한국벤처투자",
+   "category": "서류결과",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5238"
+  },
   {
    "id": "5235",
    "source": "모태펀드(KVIC)",
@@ -244,16 +224,6 @@
    "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5144"
   },
   {
-   "id": "5142",
-   "source": "모태펀드(KVIC)",
-   "title": "모태펀드(관광, 스포츠) 2026년 9월 수시 출자사업 질의응답 게시의 건",
-   "date": "2026-09-22",
-   "deadline": "",
-   "lp": "한국벤처투자",
-   "category": "질의응답",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5142"
-  },
-  {
    "id": "936",
    "source": "한국성장금융",
    "title": "【기타】혁신 프리미어 1000 투자 희망 기업 관련 안내",
@@ -276,7 +246,7 @@
   {
    "id": "1135",
    "source": "한국성장금융",
-   "title": "【제출서식】(재공고)「성장사다리펀드2」 2026년(3차년도) 위탁운용사 선정 제출서류 및 서식",
+   "title": "【제출서식】(재공고)「성장사다리펀드2」 2026년(3차년도) 위탁운용사 선정 제출서류 및 서식(한글 양식 변경)",
    "date": "2026-11-10",
    "deadline": "",
    "lp": "한국성장금융",
@@ -1494,16 +1464,6 @@
    "url": "https://www.kdb.co.kr/BOUBUF02N00.act?GmBrnId=&tabYn=&popupYn=&replyCntYn=&ECY_PWD=&_mnuId=IHIHIR0087&_PARAM_NAME=NEXT_DATA&_PARM_DATA=%7B%22ITR_NAC_ID_MNG_SNO%22%3A%22187568%22%2C%22ITR_BLB_ID%22%3A%22STD119%22%2C%22NAC_SNO%22%3A%22%22%2C%22SEARCH_CONDITION%22%3A%22ZZ%22%2C%22SEARCH_KEYWORD%22%3A%22%22%2C%22SEARCH_CATEGORY%22%3A%22ZZ%22%2C%22ORDER_TYPE%22%3A%22new%22%2C%22FIRST_MENU_ID%22%3A%22CHBIPR23N00%22%2C%22TAB%22%3A%22%22%2C%22viewPage%22%3A%2210%22%2C%22searchCondition%22%3A%22ZZ%22%2C%22searchKeyword%22%3A%22%22%2C%22searchCategory%22%3A%22ZZ%22%2C%22inqCntSotYn%22%3A%22%22%2C%22pageNo%22%3A1%2C%22GmBrnId%22%3A%22%22%2C%22tabYn%22%3A%22%22%2C%22popupYn%22%3A%22%22%2C%22replyCntYn%22%3A%22%22%7D"
   },
   {
-   "id": "538",
-   "source": "출자사업알리미(TG)",
-   "title": "2026년 해외VC 글로벌 펀드 출자사업 (3차) 접수 현황",
-   "date": "2026-10-19",
-   "deadline": "",
-   "lp": "한국벤처투자(모태펀드)",
-   "category": "모태",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5173"
-  },
-  {
    "id": "539",
    "source": "출자사업알리미(TG)",
    "title": "2026년 LP 성장펀드(Track 2) 3차 출자사업 계획 공고",
@@ -1692,6 +1652,16 @@
    "lp": "한국성장금융",
    "category": "성장",
    "url": "https://m.kgrowth.or.kr/notice_view.asp?page=1&search_colume=&search_text=&idx=1136&str_type=1&tab=1"
+  },
+  {
+   "id": "558",
+   "source": "출자사업알리미(TG)",
+   "title": "2026년  LP 성장펀드(Track 2) 2차  출자사업  서류심사  결과",
+   "date": "2026-11-12",
+   "deadline": "",
+   "lp": "한국벤처투자(모태펀드)",
+   "category": "모태",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5238"
   },
   {
    "id": "50137",
@@ -2024,16 +1994,6 @@
    "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=139515&menuNo=200017&optn1=S&pageIndex=1"
   },
   {
-   "id": "134873",
-   "source": "과학기술인공제회",
-   "title": "[공고] 과학기술인공제회 해외채권 절대수익형 위탁운용사 선정 공고",
-   "date": "2025-11-26",
-   "deadline": "",
-   "lp": "과학기술인공제회",
-   "category": "",
-   "url": "https://www.sema.or.kr/sema/bbs/B0000022/view.do?nttId=134873&menuNo=200017&optn1=S&pageIndex=1"
-  },
-  {
    "id": "0042-457",
    "source": "우정사업본부",
    "title": "우체국보험 해외채권 글로벌크레딧형 예비 운용사 선정 결과 공고합니다.",
@@ -2364,16 +2324,6 @@
    "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0041&act=view&list_no=354"
   },
   {
-   "id": "0042-403",
-   "source": "우정사업본부",
-   "title": "2026년 우체국보험 국내부동산 멀티전략(상장리츠 및 담보대출) 펀드 위탁운용사 선정 공고",
-   "date": "2026-05-12",
-   "deadline": "",
-   "lp": "우정사업본부",
-   "category": "보험",
-   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=403"
-  },
-  {
    "id": "25",
    "source": "하나벤처스",
    "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026_2026년-2차 출자사업 선정 결과",
@@ -2638,8 +2588,8 @@
   "경찰공제회": 1,
   "군인공제회": 6,
   "교직원공제회": 6,
-  "과학기술인공제회": 7,
-  "우정사업본부": 34,
+  "과학기술인공제회": 6,
+  "우정사업본부": 33,
   "하나벤처스": 13,
   "신한벤처투자": 4,
   "키움인베스트먼트": 4,
