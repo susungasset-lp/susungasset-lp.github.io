@@ -1,25 +1,55 @@
 {
- "generated": "2026-11-13 08:07",
+ "generated": "2026-11-16 08:07",
  "new": [
   {
-   "id": "5238",
-   "source": "모태펀드(KVIC)",
-   "title": "2026년  LP 성장펀드(Track 2) 2차  출자사업  서류심사  결과",
-   "date": "2026-11-12",
-   "deadline": "",
-   "lp": "한국벤처투자",
-   "category": "서류결과",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5238"
+   "id": "947",
+   "source": "VC협회(종합)",
+   "title": "KB 국민성장 기업지원 제1호(민간모펀드)의 2026-3차 출자사업",
+   "date": "2026-11-10",
+   "deadline": "2026-11-16",
+   "lp": "KB자산운용",
+   "category": "",
+   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=947"
   },
   {
-   "id": "558",
-   "source": "출자사업알리미(TG)",
-   "title": "2026년  LP 성장펀드(Track 2) 2차  출자사업  서류심사  결과",
-   "date": "2026-11-12",
+   "id": "946",
+   "source": "VC협회(종합)",
+   "title": "모태펀드(특허계정) 2026년 11월 수시 출자사업 계획 공고",
+   "date": "2026-11-11",
    "deadline": "",
-   "lp": "한국벤처투자(모태펀드)",
-   "category": "모태",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5238"
+   "lp": "한국벤처투자",
+   "category": "",
+   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=946"
+  },
+  {
+   "id": "945",
+   "source": "VC협회(종합)",
+   "title": "「연기금투자풀 펀드」 상장기업 혁신성장펀드 위탁운용사 선정계획 공고",
+   "date": "2026-11-11",
+   "deadline": "2026-12-02",
+   "lp": "한국성장금융",
+   "category": "",
+   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=945"
+  },
+  {
+   "id": "131890",
+   "source": "벤처투자종합포털(종합)",
+   "title": "KB 국민성장 기업지원 제1호(민간모펀드)의 2026-3차 출자사업",
+   "date": "2026-11-10",
+   "deadline": "2026-11-16",
+   "lp": "KB자산운용",
+   "category": "",
+   "url": "https://www.vcs.go.kr/web/portal/bbs/invtnotice/131890?cp=1&pageSize=50&bcId=invtnotice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
+  },
+  {
+   "id": "131889",
+   "source": "벤처투자종합포털(종합)",
+   "title": "「연기금투자풀 펀드」 상장기업 혁신성장펀드 위탁운용사 선정계획 공고",
+   "date": "2026-11-11",
+   "deadline": "2026-12-02",
+   "lp": "한국성장금융",
+   "category": "",
+   "url": "https://www.vcs.go.kr/web/portal/bbs/invtnotice/131889?cp=1&pageSize=50&bcId=invtnotice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
   }
  ],
  "all": [
@@ -744,6 +774,36 @@
    "url": "https://ngf.kdb.co.kr/GFIMMG01N00.act"
   },
   {
+   "id": "947",
+   "source": "VC협회(종합)",
+   "title": "KB 국민성장 기업지원 제1호(민간모펀드)의 2026-3차 출자사업",
+   "date": "2026-11-10",
+   "deadline": "2026-11-16",
+   "lp": "KB자산운용",
+   "category": "",
+   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=947"
+  },
+  {
+   "id": "946",
+   "source": "VC협회(종합)",
+   "title": "모태펀드(특허계정) 2026년 11월 수시 출자사업 계획 공고",
+   "date": "2026-11-11",
+   "deadline": "",
+   "lp": "한국벤처투자",
+   "category": "",
+   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=946"
+  },
+  {
+   "id": "945",
+   "source": "VC협회(종합)",
+   "title": "「연기금투자풀 펀드」 상장기업 혁신성장펀드 위탁운용사 선정계획 공고",
+   "date": "2026-11-11",
+   "deadline": "2026-12-02",
+   "lp": "한국성장금융",
+   "category": "",
+   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=945"
+  },
+  {
    "id": "943",
    "source": "VC협회(종합)",
    "title": "「인천혁신모펀드 제6호」2차 출자사업(일반출자) 공고",
@@ -914,34 +974,24 @@
    "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=869"
   },
   {
-   "id": "868",
-   "source": "VC협회(종합)",
-   "title": "2026년 한국교직원공제회 VC 블라인드펀드 위탁운용사 선정 공고",
-   "date": "2026-07-07",
-   "deadline": "2026-07-16",
-   "lp": "한국교직원공제회",
+   "id": "131890",
+   "source": "벤처투자종합포털(종합)",
+   "title": "KB 국민성장 기업지원 제1호(민간모펀드)의 2026-3차 출자사업",
+   "date": "2026-11-10",
+   "deadline": "2026-11-16",
+   "lp": "KB자산운용",
    "category": "",
-   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=868"
+   "url": "https://www.vcs.go.kr/web/portal/bbs/invtnotice/131890?cp=1&pageSize=50&bcId=invtnotice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
   },
   {
-   "id": "866",
-   "source": "VC협회(종합)",
-   "title": "「2026년 국민성장펀드(국민참여형) 2차」위탁운용사 선정계획 공고",
-   "date": "2026-07-06",
-   "deadline": "2026-07-20",
+   "id": "131889",
+   "source": "벤처투자종합포털(종합)",
+   "title": "「연기금투자풀 펀드」 상장기업 혁신성장펀드 위탁운용사 선정계획 공고",
+   "date": "2026-11-11",
+   "deadline": "2026-12-02",
    "lp": "한국성장금융",
    "category": "",
-   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=866"
-  },
-  {
-   "id": "865",
-   "source": "VC협회(종합)",
-   "title": "2026년 산재보험기금 대체투자상품(PEF, VC) 선정 공고",
-   "date": "2026-07-01",
-   "deadline": "2026-07-16",
-   "lp": "삼성자산운용 산재기금",
-   "category": "",
-   "url": "http://kvca.mir9.co.kr/Program/invest/listbody.html?a_gb=board&a_cd=8&a_item=0&sm=2_2_2&po_no=865"
+   "url": "https://www.vcs.go.kr/web/portal/bbs/invtnotice/131889?cp=1&pageSize=50&bcId=invtnotice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
   },
   {
    "id": "131831",
@@ -1422,26 +1472,6 @@
    "lp": "한국성장금융",
    "category": "",
    "url": "https://www.vcs.go.kr/web/portal/bbs/invtnotice/130194?cp=1&pageSize=50&bcId=invtnotice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
-  },
-  {
-   "id": "130182",
-   "source": "벤처투자종합포털(종합)",
-   "title": "2026년 상반기 서울 Vision 2030 펀드 출자사업",
-   "date": "2026-04-08",
-   "deadline": "2026-05-08",
-   "lp": "서울특별시",
-   "category": "",
-   "url": "https://www.vcs.go.kr/web/portal/bbs/invtnotice/130182?cp=1&pageSize=50&bcId=invtnotice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
-  },
-  {
-   "id": "130168",
-   "source": "벤처투자종합포털(종합)",
-   "title": "[농업정책보험금융원]농림수산식품모태펀드 '26년 추가 출자사업(농식품투자 계정) 공고",
-   "date": "2026-04-01",
-   "deadline": "2026-04-30",
-   "lp": "농업정책보험금융원",
-   "category": "",
-   "url": "https://www.vcs.go.kr/web/portal/bbs/invtnotice/130168?cp=1&pageSize=50&bcId=invtnotice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true"
   },
   {
    "id": "187716",
@@ -2444,16 +2474,6 @@
    "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=13"
   },
   {
-   "id": "12",
-   "source": "하나벤처스",
-   "title": "하나초격차상생재간접펀드(민간모펀드) 2025년-1차 출자사업 접수마감 현황",
-   "date": "2025-05-13",
-   "deadline": "",
-   "lp": "하나벤처스",
-   "category": "출자사업 공고",
-   "url": "https://www.hanaventures.co.kr/main/community/notice_view?uuid=12"
-  },
-  {
    "id": "44",
    "source": "신한벤처투자",
    "title": "신한벤처 넥서스 모펀드 1호 2026년 하반기 출자사업 최종 결과 발표",
@@ -2590,7 +2610,7 @@
   "교직원공제회": 6,
   "과학기술인공제회": 6,
   "우정사업본부": 33,
-  "하나벤처스": 13,
+  "하나벤처스": 12,
   "신한벤처투자": 4,
   "키움인베스트먼트": 4,
   "서울경제진흥원(SBA)": 4
