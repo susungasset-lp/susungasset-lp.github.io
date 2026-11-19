@@ -1,7 +1,38 @@
 {
- "generated": "2026-11-19 08:07",
- "new": [],
+ "generated": "2026-11-20 08:07",
+ "new": [
+  {
+   "id": "5241",
+   "source": "모태펀드(KVIC)",
+   "title": "2026년 LP 성장펀드(Track 2) 2차 출자사업 선정 결과",
+   "date": "2026-11-19",
+   "deadline": "",
+   "lp": "한국벤처투자",
+   "category": "선정결과",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5241"
+  },
+  {
+   "id": "561",
+   "source": "출자사업알리미(TG)",
+   "title": "2026년 LP 성장펀드(Track 2) 2차 출자사업 선정 결과",
+   "date": "2026-11-19",
+   "deadline": "",
+   "lp": "한국벤처투자(모태펀드)",
+   "category": "모태",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5241"
+  }
+ ],
  "all": [
+  {
+   "id": "5241",
+   "source": "모태펀드(KVIC)",
+   "title": "2026년 LP 성장펀드(Track 2) 2차 출자사업 선정 결과",
+   "date": "2026-11-19",
+   "deadline": "",
+   "lp": "한국벤처투자",
+   "category": "선정결과",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5241"
+  },
   {
    "id": "5240",
    "source": "모태펀드(KVIC)",
@@ -191,16 +222,6 @@
    "lp": "한국벤처투자",
    "category": "서류결과",
    "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5149"
-  },
-  {
-   "id": "5147",
-   "source": "모태펀드(KVIC)",
-   "title": "2026년 LP 성장펀드(Track 2) 2차 출자사업 계획 공고",
-   "date": "2026-09-29",
-   "deadline": "",
-   "lp": "한국벤처투자",
-   "category": "출자계획",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5147"
   },
   {
    "id": "936",
@@ -1443,16 +1464,6 @@
    "url": "https://www.kdb.co.kr/BOUBUF02N00.act?GmBrnId=&tabYn=&popupYn=&replyCntYn=&ECY_PWD=&_mnuId=IHIHIR0087&_PARAM_NAME=NEXT_DATA&_PARM_DATA=%7B%22ITR_NAC_ID_MNG_SNO%22%3A%22187568%22%2C%22ITR_BLB_ID%22%3A%22STD119%22%2C%22NAC_SNO%22%3A%22%22%2C%22SEARCH_CONDITION%22%3A%22ZZ%22%2C%22SEARCH_KEYWORD%22%3A%22%22%2C%22SEARCH_CATEGORY%22%3A%22ZZ%22%2C%22ORDER_TYPE%22%3A%22new%22%2C%22FIRST_MENU_ID%22%3A%22CHBIPR23N00%22%2C%22TAB%22%3A%22%22%2C%22viewPage%22%3A%2210%22%2C%22searchCondition%22%3A%22ZZ%22%2C%22searchKeyword%22%3A%22%22%2C%22searchCategory%22%3A%22ZZ%22%2C%22inqCntSotYn%22%3A%22%22%2C%22pageNo%22%3A1%2C%22GmBrnId%22%3A%22%22%2C%22tabYn%22%3A%22%22%2C%22popupYn%22%3A%22%22%2C%22replyCntYn%22%3A%22%22%7D"
   },
   {
-   "id": "541",
-   "source": "출자사업알리미(TG)",
-   "title": "2026년 LP 성장펀드(Track 2) 1차 출자사업 선정 결과",
-   "date": "2026-10-23",
-   "deadline": "",
-   "lp": "한국벤처투자(모태펀드)",
-   "category": "모태",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5180"
-  },
-  {
    "id": "542",
    "source": "출자사업알리미(TG)",
    "title": "「정책금융기관 글로벌 스케일업 협력펀드」 위탁운용사 선정 서류심사 결과",
@@ -1641,6 +1652,16 @@
    "lp": "농업정책보험금융원",
    "category": "농금",
    "url": "https://www.apfs.kr/front/board/boardContentsView.do?miv_pageNo=1&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contId=15280&delYn=N&menuId=41&boardId=10026&selTab=1&requestUrl=&searchKey=A&searchTxt="
+  },
+  {
+   "id": "561",
+   "source": "출자사업알리미(TG)",
+   "title": "2026년 LP 성장펀드(Track 2) 2차 출자사업 선정 결과",
+   "date": "2026-11-19",
+   "deadline": "",
+   "lp": "한국벤처투자(모태펀드)",
+   "category": "모태",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5241"
   },
   {
    "id": "50137",
