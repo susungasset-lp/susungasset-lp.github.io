@@ -1,7 +1,38 @@
 {
- "generated": "2026-11-26 08:07",
- "new": [],
+ "generated": "2026-11-27 08:07",
+ "new": [
+  {
+   "id": "5246",
+   "source": "모태펀드(KVIC)",
+   "title": "2026년 해외VC 글로벌 펀드 출자사업 (3차) 최종 선정결과",
+   "date": "2026-11-26",
+   "deadline": "",
+   "lp": "한국벤처투자",
+   "category": "선정결과",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5246"
+  },
+  {
+   "id": "568",
+   "source": "출자사업알리미(TG)",
+   "title": "2026년 해외VC 글로벌 펀드 출자사업 (3차) 최종 선정결과",
+   "date": "2026-11-26",
+   "deadline": "",
+   "lp": "한국벤처투자(모태펀드)",
+   "category": "모태",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5246"
+  }
+ ],
  "all": [
+  {
+   "id": "5246",
+   "source": "모태펀드(KVIC)",
+   "title": "2026년 해외VC 글로벌 펀드 출자사업 (3차) 최종 선정결과",
+   "date": "2026-11-26",
+   "deadline": "",
+   "lp": "한국벤처투자",
+   "category": "선정결과",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5246"
+  },
   {
    "id": "5242",
    "source": "모태펀드(KVIC)",
@@ -191,16 +222,6 @@
    "lp": "한국벤처투자",
    "category": "서류결과",
    "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5158"
-  },
-  {
-   "id": "5157",
-   "source": "모태펀드(KVIC)",
-   "title": "모태펀드(관광, 스포츠) 2026년 9월 수시 출자사업 접수 현황",
-   "date": "2026-10-01",
-   "deadline": "",
-   "lp": "한국벤처투자",
-   "category": "접수현황",
-   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?id=5157"
   },
   {
    "id": "936",
@@ -1443,16 +1464,6 @@
    "url": "https://www.kdb.co.kr/BOUBUF02N00.act?GmBrnId=&tabYn=&popupYn=&replyCntYn=&ECY_PWD=&_mnuId=IHIHIR0087&_PARAM_NAME=NEXT_DATA&_PARM_DATA=%7B%22ITR_NAC_ID_MNG_SNO%22%3A%22187568%22%2C%22ITR_BLB_ID%22%3A%22STD119%22%2C%22NAC_SNO%22%3A%22%22%2C%22SEARCH_CONDITION%22%3A%22ZZ%22%2C%22SEARCH_KEYWORD%22%3A%22%22%2C%22SEARCH_CATEGORY%22%3A%22ZZ%22%2C%22ORDER_TYPE%22%3A%22new%22%2C%22FIRST_MENU_ID%22%3A%22CHBIPR23N00%22%2C%22TAB%22%3A%22%22%2C%22viewPage%22%3A%2210%22%2C%22searchCondition%22%3A%22ZZ%22%2C%22searchKeyword%22%3A%22%22%2C%22searchCategory%22%3A%22ZZ%22%2C%22inqCntSotYn%22%3A%22%22%2C%22pageNo%22%3A1%2C%22GmBrnId%22%3A%22%22%2C%22tabYn%22%3A%22%22%2C%22popupYn%22%3A%22%22%2C%22replyCntYn%22%3A%22%22%7D"
   },
   {
-   "id": "548",
-   "source": "출자사업알리미(TG)",
-   "title": "농림수산식품모태펀드 '26년 5차 추가 출자사업(농식품 계정) 공고",
-   "date": "2026-10-28",
-   "deadline": "",
-   "lp": "농업정책보험금융원",
-   "category": "농금",
-   "url": "https://www.apfs.kr/front/board/boardContentsView.do?miv_pageNo=1&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contId=15257&delYn=N&menuId=41&boardId=10026&selTab=1&requestUrl=&searchKey=A&searchTxt="
-  },
-  {
    "id": "549",
    "source": "출자사업알리미(TG)",
    "title": "【선정결과】「IBK 생산적금융펀드 1호」일반매칭 위탁운용사 서류심사 결과",
@@ -1641,6 +1652,16 @@
    "lp": "한국성장금융",
    "category": "성장",
    "url": "https://m.kgrowth.or.kr/notice_view.asp?page=1&search_colume=&search_text=&idx=1141&str_type=1&tab=1"
+  },
+  {
+   "id": "568",
+   "source": "출자사업알리미(TG)",
+   "title": "2026년 해외VC 글로벌 펀드 출자사업 (3차) 최종 선정결과",
+   "date": "2026-11-26",
+   "deadline": "",
+   "lp": "한국벤처투자(모태펀드)",
+   "category": "모태",
+   "url": "https://www.kvic.or.kr/notice/kvic-notice/investment-business-notice?pageNo=1&searchType=all&searchWord=&id=5246"
   },
   {
    "id": "50137",
@@ -2283,16 +2304,6 @@
    "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=405"
   },
   {
-   "id": "0042-404",
-   "source": "우정사업본부",
-   "title": "(우정사업본부 공고 2026-63호) 2026년도 우체국보험 해외 인프라 대출전략 펀드 위탁운용사 선정 공고",
-   "date": "2026-05-26",
-   "deadline": "",
-   "lp": "우정사업본부",
-   "category": "보험",
-   "url": "https://www.kpasset.go.kr/board.es?mid=a10510000000&bid=0042&act=view&list_no=404"
-  },
-  {
    "id": "25",
    "source": "하나벤처스",
    "title": "하나 모두 성장 K-미래전략산업 벤처 모펀드 2026_2026년-2차 출자사업 선정 결과",
@@ -2453,46 +2464,6 @@
    "url": "https://www.shinhanvc.com/kr/notice/notice/41"
   },
   {
-   "id": "13",
-   "source": "키움인베스트먼트",
-   "title": "키움 벤처히어로 모펀드 출자사업 공고(LP 성장펀드 매칭)",
-   "date": "2026-08-03",
-   "deadline": "",
-   "lp": "키움인베스트먼트",
-   "category": "출자사업 공고",
-   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=13&category=&findType=&findWord=&sort1=&sort2=&page=1"
-  },
-  {
-   "id": "12",
-   "source": "키움인베스트먼트",
-   "title": "키움 벤처히어로 모펀드 2026년 출자사업 선정 결과",
-   "date": "2026-07-30",
-   "deadline": "",
-   "lp": "키움인베스트먼트",
-   "category": "최종 선정 결과",
-   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=12&category=&findType=&findWord=&sort1=&sort2=&page=1"
-  },
-  {
-   "id": "11",
-   "source": "키움인베스트먼트",
-   "title": "키움 벤처히어로 모펀드 2026년 출자사업 1차 평가 결과",
-   "date": "2026-06-30",
-   "deadline": "",
-   "lp": "키움인베스트먼트",
-   "category": "1차 평가 결과",
-   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=11&category=&findType=&findWord=&sort1=&sort2=&page=1"
-  },
-  {
-   "id": "10",
-   "source": "키움인베스트먼트",
-   "title": "키움 벤처히어로 모펀드 2026년 출자사업 공고",
-   "date": "2026-05-27",
-   "deadline": "",
-   "lp": "키움인베스트먼트",
-   "category": "출자사업 공고",
-   "url": "https://www.kiwoominvest.com/bbs/?so_table=notice&mode=VIEW&num=10&category=&findType=&findWord=&sort1=&sort2=&page=1"
-  },
-  {
    "id": "5c4ad096-9c85-f111-b404-d4f5ef4a1e33",
    "source": "서울경제진흥원(SBA)",
    "title": "2026년 SBA 글로벌 펀드 출자사업 공고",
@@ -2548,10 +2519,10 @@
   "군인공제회": 6,
   "교직원공제회": 6,
   "과학기술인공제회": 6,
-  "우정사업본부": 32,
+  "우정사업본부": 31,
   "하나벤처스": 12,
   "신한벤처투자": 4,
-  "키움인베스트먼트": 4,
+  "키움인베스트먼트": 0,
   "서울경제진흥원(SBA)": 4
  }
 }
